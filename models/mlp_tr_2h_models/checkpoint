@@ -1,0 +1,2 @@
+model_checkpoint_path: "mlp_tr_v4_2h"
+all_model_checkpoint_paths: "mlp_tr_v4_2h"
